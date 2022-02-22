@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554798529021",
+    "project_id": "chatdac-29e80",
+    "storage_bucket": "chatdac-29e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554798529021:android:b9a0ab2e2ce7ee18c20194",
+        "android_client_info": {
+          "package_name": "com.example.chartdac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554798529021-pm4schhe72j9rcvg132boun5cfk8b7hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTMoRsChWbAns6dWmMkhPCtygs9rQvwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554798529021-pm4schhe72j9rcvg132boun5cfk8b7hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
